@@ -320,7 +320,7 @@ useEffect(() => {
                 <h1>
                   THE{" "}
                   <span>
-                    <em>VIDEO PORTFOLIO</em>
+                    <em>VIDEO  PORTFOLIO </em>
                   </span>
                 </h1>
 
